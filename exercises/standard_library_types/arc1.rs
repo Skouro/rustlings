@@ -23,7 +23,7 @@
 #![forbid(unused_imports)] // Do not change this, (or the next) line.
 use std::sync::Arc;
 use std::thread;
-
+Bueno beibi, muchas graciasBueno beibi, muchas graciasBueno beibi, muchas graciasBueno beibi, muchas gracias
 fn main() {
     let numbers: Vec<_> = (0..100u32).collect();
     let shared_numbers = // TODO
